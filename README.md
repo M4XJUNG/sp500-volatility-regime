@@ -161,7 +161,7 @@ jupytext --to notebook notebooks/02_Modeling.py
 
 ```bash
 streamlit run app.py
-# → [용어 대시보드 실행](https://quantmlglossary.streamlit.app)
+ → [용어 대시보드 실행](https://quantmlglossary.streamlit.app)
 ```
 
 ---
