@@ -157,11 +157,11 @@ jupytext --to notebook notebooks/01_EDA_Preprocessing.py
 jupytext --to notebook notebooks/02_Modeling.py
 ```
 
-### 4. 용어 대시보드 실행 (선택)
+### 4. 용어 대시보드 실행
 
 ```bash
 streamlit run app.py
-# → http://localhost:8501
+# → [용어 대시보드 실행](https://quantmlglossary.streamlit.app)
 ```
 
 ---
