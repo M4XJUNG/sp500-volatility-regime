@@ -1,6 +1,6 @@
 # S&P 500 Market Volatility Regime Classification
 
-> **S&P 500 시장 변동성 레짐 분류: 머신러닝 기반 시장 안정성 예측**  
+> **S&P 500 예측 가능성 탐색: 방향성 예측의 한계와 변동성 레짐 분류를 통한 대안적 접근**  
 > 인하대학교 데이터사이언스학과 | 통계적 기계학습 팀 프로젝트 | 2026 Spring
 
 ---
@@ -48,10 +48,6 @@ sp500_volatility_regime/
 │   ├── 01_EDA_Preprocessing.py     # EDA + 전처리 + 피처 엔지니어링
 │   └── 02_Modeling.py              # 7개 모델 학습 + 비교 + 시뮬레이션
 │
-├── src/
-│   ├── features.py                 # 피처 생성 함수 모듈
-│   ├── evaluation.py               # 평가 지표 함수 모듈
-│   └── simulation.py               # 투자 전략 시뮬레이션 모듈
 │
 ├── data/
 │   ├── raw/                        # 원본 데이터 (sap500.csv — gitignore)
