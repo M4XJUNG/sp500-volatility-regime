@@ -44,10 +44,9 @@
 ```
 sp500_volatility_regime/
 │
-├── notebooks/
+├── notebook/
 │   ├── 01_EDA_Preprocessing.py     # EDA + 전처리 + 피처 엔지니어링
 │   └── 02_Modeling.py              # 7개 모델 학습 + 비교 + 시뮬레이션
-│
 │
 ├── data/
 │   ├── raw/                        # 원본 데이터 (sap500.csv — gitignore)
