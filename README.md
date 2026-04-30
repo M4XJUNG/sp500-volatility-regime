@@ -121,7 +121,7 @@ Test       : 2022-01-03 ~ 2026-03-10  (1,009일 / 10%)
 ### 1. 환경 설치
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/sp500-volatility-regime.git
+git clone https://github.com/M4XJUNG/sp500-volatility-regime.git
 cd sp500-volatility-regime
 pip install -r requirements.txt
 ```
