@@ -60,6 +60,7 @@ sp500_volatility_regime/
 ├── notebook/
 │   ├── 01_EDA_Preprocessing.py     # EDA + 전처리 + 피처 엔지니어링
 │   └── 02_Modeling.py              # 7개 모델 학습 + 비교 + 시뮬레이션
+│   └── sml_team_project.ipynb      # 01.py와 02.py 합친 코랩 결과물 
 │
 ├── data/
 │   ├── raw/                        # 원본 데이터 (sap500.csv — gitignore)
@@ -69,7 +70,6 @@ sp500_volatility_regime/
 ├── logs/
 │   └── 2026-XX-XX.md               # 공부 흔적 
 │
-├── sml_team_project.ipynb
 ├── app.py                          # Streamlit 용어 대시보드
 ├── requirements.txt
 ├── quant_ml_terms.csv              # Streamlit 용어 대시보드의 원본 데이터
